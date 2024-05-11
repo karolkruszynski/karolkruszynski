@@ -1,5 +1,6 @@
 # Hi, I'm Karol! 👋🏻
-
+👩🏻‍💻 Customer Configuration Specialist @ Intiaro </br>
+👩🏻‍🎓 Learning Python for Data Analytics and Data Science
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karolkruszyńskiinf0) 
